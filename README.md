@@ -9,4 +9,4 @@ I then use charts to visaully provide the information.
 
 For this project I show the filtering and cleansing of the data before using this to produce pivot tabels. I then create the charts to visually showcase what I have found.
 
-For the Carinventory Project I have to first tranfer the Text file into excel then preocess the data further with the use of filtering and cleansing. I then create pivot tables and charts to show a specfic insight to a certian catorgory. For this case it would be the miles in the models of the car. 
+For the Car inventory Project I have to first tranfer the data in Text file into excel format. Then preocess the data further with the use of filtering and cleansing using different codes i.e IFs, VLOOKUP. I then create pivot tables and charts to show a specfic insight to a certain catorgory. For this case it would be the miles of  the car. 
