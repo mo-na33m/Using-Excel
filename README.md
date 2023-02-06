@@ -7,5 +7,6 @@ save time on adding all the numbers up.
 For the Gradebook i showcase the use of the condtional formatting in different styles i.e Red for the percenatges and dottated colours in the tests area. 
 I then use charts to visaully provide the information. 
 
+For this project I show the filtering and cleansing of the data before using this to produce pivot tabels. I then create the charts to visually showcase what i want answering.
 
 
